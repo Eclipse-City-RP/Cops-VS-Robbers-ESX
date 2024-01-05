@@ -38,15 +38,14 @@ Make sure you have the following installed before proceeding:
 1. Clone this repository to your server's resources folder:
 
    ```bash
-   git clone https://github.com/your-username/cops-vs-robbers.git
-
-	2.	Add the following line to your server.cfg file: ensure cops-vs-robbers
-        3.	Configure the plugin settings in config.lua if needed.
-	4.	Restart your FiveM server.
-	5.	Start the game mode in the server console or in-game: start cops-vs-robbers
-        6.	Enjoy the Cops vs Robbers game mode!
+   1. git clone https://github.com/nclliammmmm/cops-vs-robbers-esx.git
+   2.	Add the following line to your server.cfg file: ensure cops-vs-robbers
+   3.	Configure the plugin settings in config.lua if needed.
+   4.	Restart your FiveM server.
+   5.	Start the game mode in the server console or in-game: start cops-vs-robbers
+   6.	Enjoy the Cops vs Robbers game mode!
  
-2. ## Configuration
+## Configuration
 
 To customize the Cops vs Robbers game mode, follow these configuration steps:
 
@@ -64,11 +63,12 @@ To customize the Cops vs Robbers game mode, follow these configuration steps:
    Config.RobbersRewardAmount = 500
    Config.CopsRewardAmount = 1000
    Config.GameCost = 14.99
-
-   3.	Save the config.lua file.
-	4.	Restart your FiveM server to apply the changes.
+   ```
    
-3. ## Usage
+3.	Save the config.lua file.
+4.	Restart your FiveM server to apply the changes.
+   
+## Usage
 
 To start the Cops vs Robbers game mode on your FiveM server, follow these steps:
 
