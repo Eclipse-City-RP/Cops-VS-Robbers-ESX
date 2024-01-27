@@ -1,7 +1,7 @@
 ```markdown
 # Cops vs Robbers Game Mode
-
-## Copyright Notice
+```
+## Copyright
 
 ```plaintext
 Copyright (c) [2024] [Liam Ridley]
@@ -87,7 +87,7 @@ This command initiates the game mode, setting up teams, objectives, and rewards.
 
 ## License
 
-This software is proprietary and confidential. See the [Copyright Notice](#copyright-notice) for details.
+This software is proprietary and confidential. See the [Copyright Notice](#copyright) for details.
 
 ## Contact
 
