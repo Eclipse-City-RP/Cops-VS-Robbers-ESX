@@ -91,4 +91,4 @@ This software is proprietary and confidential. See the [Copyright Notice](#copyr
 
 ## Contact
 
-For inquiries or permission requests, please contact [Liam Ridley] at [@ncl_liammmmm on Discord or business@cloudworksmanager.co.uk].
+For inquiries or permission requests, please contact Liam Ridley at @ncl_liammmmm on Discord or liamridley121@gmail.com
