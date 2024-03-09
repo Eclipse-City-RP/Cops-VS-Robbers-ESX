@@ -4,7 +4,7 @@
 ## Copyright
 
 ```plaintext
-Copyright (c) [2024] [Liam Ridley]
+Copyright (c) 2024 Liam Ridley
 
 All rights reserved. 
 
