@@ -4,19 +4,7 @@
 ## Copyright
 
 ```plaintext
-Copyright (c) 2024 Liam Ridley
-
-All rights reserved. 
-
-The software and its associated documentation files (the "Software") are proprietary and confidential. You may not copy, modify, merge, publish, distribute, sublicense, sell, or create derivative works based on the Software without express written permission from the copyright holder.
-
-To obtain permission, please contact [@ncl_liammmmm on Discord or business@cloudworksmanager.co.uk].
-
-Unauthorized use, reproduction, or distribution of the Software or any portion of it may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under law.
-
-By using this software, you agree to abide by these terms and conditions.
-
-Cost: £14.99
+Nvm. Just enjoy it...
 ```
 
 ## Description
@@ -87,7 +75,7 @@ This command initiates the game mode, setting up teams, objectives, and rewards.
 
 ## License
 
-This software is proprietary and confidential. See the [Copyright Notice](#copyright) for details.
+Have it...
 
 ## Contact
 
